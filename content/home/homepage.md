@@ -31,6 +31,7 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
+
 [Donate](https://payment.maksekeskus.ee/pay/1/link.html?shopId=17150094-1cd0-409f-bfc7-5c9b468a1694&amount=100&paymentId=100&locale=et&country=ee)
 
 
