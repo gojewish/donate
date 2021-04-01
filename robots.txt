@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://gojewish.github.io/donate/sitemap.xml
+Sitemap: https://donate.gojewish.eu/sitemap.xml
