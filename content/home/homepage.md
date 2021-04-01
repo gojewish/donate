@@ -20,7 +20,7 @@ design:
     #   Any HTML color name or Hex value is valid.
     #color: white
     gradient_start: white
-    gradient_end: yellow
+    gradient_end: black
     #image: hello.jpg  # Name of image in `static/media/`.
     image_darken: 0.4
     image_size: cover
@@ -31,15 +31,15 @@ advanced:
   css_style:
   css_class: fullscreen
 ---
-
+# link
 [Donate](https://payment.maksekeskus.ee/pay/1/link.html?shopId=17150094-1cd0-409f-bfc7-5c9b468a1694&amount=100&paymentId=100&locale=et&country=ee)
 
 
-
+# button
 <form action="https://payment.maksekeskus.ee/pay/1/link.html"><input type="hidden" name="shopId" value="17150094-1cd0-409f-bfc7-5c9b468a1694"><input type="hidden" name="amount" value="100"><input type="hidden" name="paymentId" value="100"><input type="hidden" name="locale" value="et"><input type="hidden" name="country" value="ee"><input type="hidden" name="donate" value="true"><input type="submit" value="Donate 100€"></form>
 
 
-
+#form
 <script>
 	function switchTab() {
 		var labels = document.querySelectorAll('#donations_form > label');
